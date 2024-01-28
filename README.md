@@ -7,6 +7,7 @@ Welcome to my first webpage! This project is a statis website built with HTML.
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Visit](#visit)
 
 ## Installation
 
@@ -17,3 +18,6 @@ Welcome to my first webpage! This project is a statis website built with HTML.
 
 ## Usage
 - ...
+
+## Visit
+https://lmbsumatra.github.io/1/my-portfolio.html
